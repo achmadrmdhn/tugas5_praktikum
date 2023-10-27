@@ -37,7 +37,8 @@ match luasbangundatar :
 
 print("")
 
-print("Nomor 3.")
+print("Nomor 3.-Tugas Asdos")
+print("Menentukan bilangan ganjil-genap")
 bilangan = int(input("Masukkan bilangan: "))
 
 if bilangan % 2 == 0:
